@@ -1,5 +1,9 @@
 # PHP Notes App
 
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 Esta es una "replica" del [Aplicación de Notas de Fazt](https://github.com/fazt/nodejs-notes-app) solo que hecho con PHP y MySQL. Contiene algunas personalizaciones en cuanto a la presentación.
 
 ![Notes-App.png](Notes-App.png)
